@@ -244,9 +244,9 @@ def scout(client, transaction_fee=0.001, multiplier=5):
 
 def main():
     # Add API key here
-    api_key = ''
+    api_key = '6nJSkU9ACfcAYRODLN0V5OuRj3w8kNlCyIZd0uuNw9aKoJSu5muagelw32ay6NaH'
     # Add API secret key here
-    api_secret_key = ''
+    api_secret_key = 'jJ21PkP3YkbYIxGBnjaTp3dNjpoq0OrGTJmRaq0C7kDYrJbKvBuu6Rz4c0D3xhnb'
 
     client = Client(api_key, api_secret_key)
 
